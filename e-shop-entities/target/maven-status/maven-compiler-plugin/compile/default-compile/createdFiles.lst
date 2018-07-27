@@ -1,0 +1,10 @@
+com\solution\fromVC\entities\Category.class
+com\solution\fromVC\entities\OrderDetail.class
+com\solution\fromVC\entities\Product.class
+com\solution\fromVC\entities\Customer.class
+com\solution\fromVC\entities\CustomerOrder.class
+com\solution\fromVC\entities\Groups.class
+com\solution\fromVC\entities\OrderDetailPK.class
+com\solution\fromVC\entities\Person.class
+com\solution\fromVC\entities\Administrator.class
+com\solution\fromVC\entities\OrderStatus.class
