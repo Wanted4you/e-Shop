@@ -1,0 +1,10 @@
+com\solution\fromVC\shipment\web\LocaleBean.class
+com\solution\fromVC\shipment\session\UserBean.class
+com\solution\fromVC\shipment\web\util\JsfUtil.class
+com\solution\fromVC\shipment\session\AbstractFacade.class
+com\solution\fromVC\shipment\web\ShippingBean$Status.class
+com\solution\fromVC\shipment\web\ShippingBean$1.class
+com\solution\fromVC\shipment\web\UserController.class
+com\solution\fromVC\shipment\qualifiers\LoggedIn.class
+com\solution\fromVC\shipment\web\ShippingBean.class
+com\solution\fromVC\shipment\ejb\OrderBrowser.class
