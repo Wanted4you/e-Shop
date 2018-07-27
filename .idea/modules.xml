@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/e-Shop.iml" filepath="$PROJECT_DIR$/e-Shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-shop-entities/e-shop-entities.iml" filepath="$PROJECT_DIR$/e-shop-entities/e-shop-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-shop-events/e-shop-events.iml" filepath="$PROJECT_DIR$/e-shop-events/e-shop-events.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-shop-payment/e-shop-payment.iml" filepath="$PROJECT_DIR$/e-shop-payment/e-shop-payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-shop-resources/e-shop-resources.iml" filepath="$PROJECT_DIR$/e-shop-resources/e-shop-resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-shop-shipment/e-shop-shipment.iml" filepath="$PROJECT_DIR$/e-shop-shipment/e-shop-shipment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-shop-store/e-shop-store.iml" filepath="$PROJECT_DIR$/e-shop-store/e-shop-store.iml" />
+    </modules>
+  </component>
+</project>
